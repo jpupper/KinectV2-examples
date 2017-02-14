@@ -3,7 +3,6 @@
 Video de ejemplo - Example video : https://youtu.be/cIi5s7Mfzcw
 
 Daniel Shiffman tutorials : https://www.youtube.com/watch?v=QmVNgdapJJM&list=PLRqwX-V7Uu6ZMlWHdcy8hAGDy6IaoxUKf
-https://www.youtube.com/watch?v=QmVNgdapJJM&list=PLRqwX-V7Uu6ZMlWHdcy8hAGDy6IaoxUKf
 
 ESPAÑOL.
 Ejemplos de los videotutoriales de daniel shiffman y un poco mas realizados con la librería "kinectV2" 
